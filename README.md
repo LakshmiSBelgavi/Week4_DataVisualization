@@ -4,3 +4,11 @@ This repository contains data cleaning of data, melting data, merging data and v
 
 Scatter plot animation 
 ![Scatter plot animation ](https://github.com/LakshmiSBelgavi/Week4_DataVisualization/blob/87f30bfcaa60fa0e587288ba4941680b12198802/Screenshot%202024-02-03%20184001.png)
+
+
+Line Chart Animation 
+![Line Chart Animation](https://github.com/LakshmiSBelgavi/Week4_DataVisualization/blob/main/Screenshot%202024-02-03%20184026.png)
+
+
+
+
